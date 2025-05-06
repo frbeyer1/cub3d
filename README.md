@@ -1,6 +1,6 @@
 # cub3D
 
-Together with @Ellen Steiner[https://github.com/EllenMusik] i've worked on the Wolfenstein 3D inspired project cub3D by 42 Wolfsburg. The project provides an opportunity to explore the fundamentals of raycasting, textures rendering, and basic game mechanics. It is written in C and utilizes 42's [MinilibX graphics library](https://github.com/42Paris/minilibx-linux).
+Together with [@Ellen Steiner](https://github.com/EllenMusik) i've worked on the Wolfenstein 3D inspired project cub3D by 42 Wolfsburg. The project provides an opportunity to explore the fundamentals of raycasting, textures rendering, and basic game mechanics. It is written in C and utilizes 42's [MinilibX graphics library](https://github.com/42Paris/minilibx-linux).
 
 ## Elements
 - Raycasting: Utilizes raycasting techniques to create a 3D perspective effect from a 2D map
